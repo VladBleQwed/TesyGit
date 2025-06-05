@@ -52,11 +52,8 @@ def build_graph(edges):
         edges: List of tuples representing undirected edges
         
     Returns:
-<<<<<<< HEAD
         Dictionardfdfasdsady where keys asaare vertices and values are lists of adjacent vertices
-=======
-        Dictionardfdfasdsady where keys dfare vertices and values are lists of adjacent vertices
->>>>>>> 6d6d63327d2c42ce4f8ab7ccec61f399906b3f6d
+        Dictionardfdfasdsady whedfre keys dfare vertices and values are lists of adjacent vertices
     """
     graph = defaultdict(list)
     for u, v in edges:
