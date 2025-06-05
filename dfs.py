@@ -2,7 +2,7 @@ from collections import defaultdict
 
 def dfs(graph, start, end=None):
     """
-    Perform Depth-First Search (DFS) on a graph. sdf
+    Perform Depth-First Search (DFS) on a graph. sdfretretre
     
     Args:
         graph: Dictionary representing the graph as adjacency list
