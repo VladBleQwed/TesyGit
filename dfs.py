@@ -63,4 +63,4 @@ def build_graph(edges):
 if __name__ == "__main__":
     edges = [(4, 2), (1, 3), (2, 4)]
     graph = build_graph(edges)
-    print(dfs(graph, 2, 4))  
+    print(dfs(graph, 22, 4))  
